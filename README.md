@@ -1,6 +1,10 @@
 # Xheme (Readable Pro Dark Theme) 
 
-To alter this project you need to install "Visual Studio Color Theme Designer 2022"
+Published on Visual Studio Marketplace:
+
+https://marketplace.visualstudio.com/items?itemName=Xaimaran.Xheme-2021Q4
+
+To alter this project you need to install "Visual Studio Color Theme Designer 2022":
 
 https://marketplace.visualstudio.com/items?itemName=idex.colorthemedesigner2022
 
