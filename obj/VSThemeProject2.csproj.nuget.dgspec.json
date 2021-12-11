@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Xaimaran\\source\\repos\\VSThemeProject2\\VSThemeProject2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Xaimaran\\source\\repos\\VSThemeProject2\\VSThemeProject2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Xaimaran\\source\\repos\\VSThemeProject2\\VSThemeProject2.csproj",
+        "projectName": "Xheme",
+        "projectPath": "C:\\Users\\Xaimaran\\source\\repos\\VSThemeProject2\\VSThemeProject2.csproj",
+        "packagesPath": "C:\\Users\\Xaimaran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Xaimaran\\source\\repos\\VSThemeProject2\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Xaimaran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\#Service\\xaimaran.nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Microsoft.VisualStudio.VsixColorCompiler": {
+              "target": "Package",
+              "version": "[17.0.31709.430, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

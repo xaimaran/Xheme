@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "Microsoft.VisualStudio.VsixColorCompiler/17.0.31709.430": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.VisualStudio.VsixColorCompiler.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win": {
+      "Microsoft.VisualStudio.VsixColorCompiler/17.0.31709.430": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.VisualStudio.VsixColorCompiler.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x64": {
+      "Microsoft.VisualStudio.VsixColorCompiler/17.0.31709.430": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.VisualStudio.VsixColorCompiler.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x86": {
+      "Microsoft.VisualStudio.VsixColorCompiler/17.0.31709.430": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.VisualStudio.VsixColorCompiler.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.VisualStudio.VsixColorCompiler/17.0.31709.430": {
+      "sha512": "KvWu1c+84BycFK+76LiX/plgtAXQDWq4wjkzqkmTArGwU/pn4BX2XHMQ+eeuNwy2jt8sU9FhG5zpk4yOKDOL8A==",
+      "type": "package",
+      "path": "microsoft.visualstudio.vsixcolorcompiler/17.0.31709.430",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Microsoft.VisualStudio.Pkgdef.dll",
+        "VsixColorCompiler.exe",
+        "VsixColorCompiler.exe.config",
+        "build/Microsoft.VisualStudio.VsixColorCompiler.targets",
+        "microsoft.visualstudio.vsixcolorcompiler.17.0.31709.430.nupkg.sha512",
+        "microsoft.visualstudio.vsixcolorcompiler.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "Microsoft.VisualStudio.VsixColorCompiler >= 17.0.31709.430"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Xaimaran\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "B:\\#Factory\\0..Z\\Xheme\\source\\Xheme.csproj",
+      "projectName": "Xheme",
+      "projectPath": "B:\\#Factory\\0..Z\\Xheme\\source\\Xheme.csproj",
+      "packagesPath": "C:\\Users\\Xaimaran\\.nuget\\packages\\",
+      "outputPath": "B:\\#Factory\\0..Z\\Xheme\\source\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Xaimaran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\#Service\\xaimaran.nuget": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "dependencies": {
+          "Microsoft.VisualStudio.VsixColorCompiler": {
+            "target": "Package",
+            "version": "[17.0.31709.430, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

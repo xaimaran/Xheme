@@ -1,0 +1,15 @@
+B:\#Factory\0..Z\Xheme\source\bin\Release\android-chrome-512x512.png
+B:\#Factory\0..Z\Xheme\source\bin\Release\favicon-32x32.png
+B:\#Factory\0..Z\Xheme\source\bin\Release\Xheme.dll
+B:\#Factory\0..Z\Xheme\source\bin\Release\Xheme.pdb
+B:\#Factory\0..Z\Xheme\source\bin\Release\Xheme.vsix
+B:\#Factory\0..Z\Xheme\source\bin\Release\extension.vsixmanifest
+B:\#Factory\0..Z\Xheme\source\obj\Release\Xheme.csproj.AssemblyReference.cache
+B:\#Factory\0..Z\Xheme\source\obj\Release\_EmptyResource.resources
+B:\#Factory\0..Z\Xheme\source\obj\Release\Xheme.csproj.GenerateResource.cache
+B:\#Factory\0..Z\Xheme\source\obj\Release\Xheme.csproj.CoreCompileInputs.cache
+B:\#Factory\0..Z\Xheme\source\obj\Release\Xheme.dll
+B:\#Factory\0..Z\Xheme\source\obj\Release\Xheme.pdb
+B:\#Factory\0..Z\Xheme\source\obj\Release\extension.vsixmanifest
+B:\#Factory\0..Z\Xheme\source\obj\Release\files.json
+B:\#Factory\0..Z\Xheme\source\obj\Release\createTemplateManifests.cache
