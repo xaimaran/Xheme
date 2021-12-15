@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Xheme (2021Q4)" GUID="{ca3af035-65fe-4a6b-ac38-0a058cb3df92}">
+  <Theme Name="Xheme (2021Q4)" GUID="{e57e45b2-cb1c-4cb2-a287-190accc3dc0f}" BaseGUID="{ca3af035-65fe-4a6b-ac38-0a058cb3df92}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF0D1017" />
@@ -8409,10 +8409,10 @@
       </Color>
       <Color Name="XML Text">
         <Background Type="CT_RAW" Source="FF0D1017" />
-        <Foreground Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FF95E1B1" />
       </Color>
       <Color Name="XML Keyword">
-        <Background Type="CT_RAW" Source="FFCBCBCB" />
+        <Background Type="CT_RAW" Source="FFCAEE94" />
         <Foreground Type="CT_RAW" Source="FF0000FF" />
       </Color>
       <Color Name="XML Delimiter">
@@ -8425,14 +8425,14 @@
       </Color>
       <Color Name="XML Name">
         <Background Type="CT_RAW" Source="FF0D1017" />
-        <Foreground Type="CT_RAW" Source="FFF1E1E1" />
+        <Foreground Type="CT_RAW" Source="FF6E7178" />
       </Color>
       <Color Name="XML Attribute">
         <Background Type="CT_RAW" Source="FF0D1017" />
-        <Foreground Type="CT_RAW" Source="FF00C8FF" />
+        <Foreground Type="CT_RAW" Source="FF84868B" />
       </Color>
       <Color Name="XML CData Section">
-        <Background Type="CT_RAW" Source="FF0D1017" />
+        <Background Type="CT_RAW" Source="FFFFD009" />
         <Foreground Type="CT_RAW" Source="FF808080" />
       </Color>
       <Color Name="XML Processing Instruction">
@@ -8441,11 +8441,11 @@
       </Color>
       <Color Name="XML Attribute Value">
         <Background Type="CT_RAW" Source="FF0D1017" />
-        <Foreground Type="CT_RAW" Source="FFE6B450" />
+        <Foreground Type="CT_RAW" Source="FFB0CBBA" />
       </Color>
       <Color Name="XML Attribute Quotes">
         <Background Type="CT_RAW" Source="FF0D1017" />
-        <Foreground Type="CT_RAW" Source="FFE1E1E1" />
+        <Foreground Type="CT_RAW" Source="FF84868B" />
       </Color>
       <Color Name="XSLT Keyword">
         <Background Type="CT_RAW" Source="FF0D1017" />
