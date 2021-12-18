@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Xheme (2021Q4)" GUID="{e57e45b2-cb1c-4cb2-a287-190accc3dc0f}" BaseGUID="{ca3af035-65fe-4a6b-ac38-0a058cb3df92}">
+  <Theme Name="Xheme (2021Q4) (1)" GUID="{d140117e-56b6-4751-ade2-736ba4e0e134}" BaseGUID="{e57e45b2-cb1c-4cb2-a287-190accc3dc0f}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF0D1017" />
@@ -5216,8 +5216,8 @@
         <Foreground Type="CT_RAW" Source="FFFF8F40" />
       </Color>
       <Color Name="preprocessor text">
-        <Background Type="CT_RAW" Source="FF0D1017" />
-        <Foreground Type="CT_RAW" Source="FFFF8F40" />
+        <Background Type="CT_RAW" Source="FF3B3307" />
+        <Foreground Type="CT_RAW" Source="FFD0B92C" />
       </Color>
       <Color Name="method name">
         <Background Type="CT_RAW" Source="FF0D1017" />
@@ -5305,7 +5305,7 @@
       </Color>
       <Color Name="Preprocessor Keyword">
         <Background Type="CT_RAW" Source="FF0D1017" />
-        <Foreground Type="CT_RAW" Source="FFFF8F40" />
+        <Foreground Type="CT_RAW" Source="FFD0B92C" />
       </Color>
       <Color Name="HTML Operator">
         <Background Type="CT_RAW" Source="FF0D1017" />
@@ -9701,7 +9701,7 @@
     <Category Name="Text Editor Text Marker Items" GUID="{ff349800-ea43-46c1-8c98-878e78f46501}">
       <Color Name="Read-Only Region">
         <Background Type="CT_RAW" Source="FFEEEFE6" />
-        <Foreground Type="CT_RAW" Source="FFFFB400" />
+        <Foreground Type="CT_RAW" Source="FFE6B450" />
       </Color>
       <Color Name="Task List Shortcut">
         <Background Type="CT_RAW" Source="FF0000FF" />
@@ -9740,7 +9740,7 @@
         <Foreground Type="CT_RAW" Source="FF008000" />
       </Color>
       <Color Name="Code Snippet Field">
-        <Background Type="CT_RAW" Source="FFFFE188" />
+        <Background Type="CT_RAW" Source="FFFFA588" />
         <Foreground Type="CT_RAW" Source="FFD67EB0" />
       </Color>
       <Color Name="Code Snippet Field (Selected)">
