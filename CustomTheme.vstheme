@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Xheme (2021Q4) (1)" GUID="{d140117e-56b6-4751-ade2-736ba4e0e134}" BaseGUID="{e57e45b2-cb1c-4cb2-a287-190accc3dc0f}">
+  <Theme Name="Xheme (2022)" GUID="{3b37e7ac-fcf4-481a-800e-db6cbbb4b005}" BaseGUID="{d140117e-56b6-4751-ade2-736ba4e0e134}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF0D1017" />
@@ -1860,7 +1860,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="MainWindowButtonHoverActiveGlyph">
-        <Background Type="CT_RAW" Source="FFFF0088" />
+        <Background Type="CT_RAW" Source="FFBFBDB6" />
       </Color>
       <Color Name="ScrollBarArrowGlyphMouseOver">
         <Background Type="CT_RAW" Source="FF734D00" />
@@ -1965,7 +1965,7 @@
         <Background Type="CT_RAW" Source="FFFF0088" />
       </Color>
       <Color Name="MainWindowButtonHoverActive">
-        <Background Type="CT_RAW" Source="FF212835" />
+        <Background Type="CT_RAW" Source="FFFF0088" />
       </Color>
       <Color Name="DocWellOverflowButtonMouseOverBackground">
         <Background Type="CT_RAW" Source="FFE1AF4B" />
@@ -2043,7 +2043,7 @@
         <Background Type="CT_RAW" Source="FF1F232A" />
       </Color>
       <Color Name="MainWindowButtonHoverActiveBorder">
-        <Background Type="CT_RAW" Source="FF0B0E14" />
+        <Background Type="CT_RAW" Source="FFFF0088" />
       </Color>
       <Color Name="MainWindowSolutionNameActiveBackground">
         <Background Type="CT_RAW" Source="FF1F232A" />
@@ -2082,7 +2082,7 @@
         <Background Type="CT_RAW" Source="FF1F232A" />
       </Color>
       <Color Name="CommandBarBorder">
-        <Background Type="CT_RAW" Source="FF1F232A" />
+        <Background Type="CT_RAW" Source="FFFF0088" />
       </Color>
       <Color Name="DropDownPopupBorder">
         <Background Type="CT_RAW" Source="FF1F232A" />
@@ -2427,7 +2427,7 @@
         <Foreground Type="CT_RAW" Source="FF565B66" />
       </Color>
       <Color Name="CommandBarCheckBox">
-        <Background Type="CT_RAW" Source="FF565B66" />
+        <Background Type="CT_RAW" Source="FFCBCFD7" />
       </Color>
       <Color Name="SearchBoxMouseOverBackgroundBegin">
         <Background Type="CT_RAW" Source="FF0D1017" />
@@ -2484,13 +2484,13 @@
         <Background Type="CT_RAW" Source="FF372F20" />
       </Color>
       <Color Name="CommandBarSelectedIcon">
-        <Background Type="CT_RAW" Source="FF372F20" />
+        <Background Type="CT_RAW" Source="FFFF0088" />
       </Color>
       <Color Name="CommandBarHoverOverSelected">
         <Background Type="CT_RAW" Source="FF372F20" />
       </Color>
       <Color Name="CommandBarHoverOverSelectedIcon">
-        <Background Type="CT_RAW" Source="FF372F20" />
+        <Background Type="CT_RAW" Source="FFFF0088" />
       </Color>
       <Color Name="CommandBarSelectedBorder">
         <Background Type="CT_RAW" Source="FF4D4026" />
@@ -2523,7 +2523,7 @@
         <Background Type="CT_RAW" Source="FF0F131A" />
       </Color>
       <Color Name="CommandBarMenuIconBackground">
-        <Background Type="CT_RAW" Source="FF0F131A" />
+        <Background Type="CT_RAW" Source="7BFF0088" />
       </Color>
       <Color Name="CommandBarSelectedIconBorder">
         <Background Type="CT_RAW" Source="FF0F131A" />
@@ -2547,13 +2547,13 @@
         <Background Type="CT_RAW" Source="FF565B66" />
       </Color>
       <Color Name="CommandBarMenuSubmenuGlyph">
-        <Background Type="CT_RAW" Source="FF565B66" />
+        <Background Type="CT_RAW" Source="FFFF0088" />
       </Color>
       <Color Name="CommandBarMenuGlyph">
         <Background Type="CT_RAW" Source="FF565B66" />
       </Color>
       <Color Name="CommandBarTextActive">
-        <Background Type="CT_RAW" Source="FF898C92" />
+        <Background Type="CT_RAW" Source="FFBFBDB6" />
       </Color>
       <Color Name="ComboBoxItemText">
         <Background Type="CT_RAW" Source="FF565B66" />
@@ -2562,7 +2562,7 @@
         <Background Type="CT_RAW" Source="FF1A1F29" />
       </Color>
       <Color Name="CommandBarMenuItemMouseOver">
-        <Background Type="CT_RAW" Source="FF1A1F29" />
+        <Background Type="CT_RAW" Source="A0FF0088" />
         <Foreground Type="CT_RAW" Source="FFBFBDB6" />
       </Color>
       <Color Name="DebuggerDataTipActiveHighlight">
@@ -2583,16 +2583,16 @@
         <Background Type="CT_RAW" Source="FFBFBDB6" />
       </Color>
       <Color Name="CommandBarMenuMouseOverSubmenuGlyph">
-        <Background Type="CT_RAW" Source="FFBFBDB6" />
+        <Background Type="CT_RAW" Source="B0FF0088" />
       </Color>
       <Color Name="CommandBarMenuSubmenuGlyphHover">
         <Background Type="CT_RAW" Source="FFBFBDB6" />
       </Color>
       <Color Name="CommandBarCheckBoxMouseOver">
-        <Background Type="CT_RAW" Source="FFBFBDB6" />
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="CommandBarTextHover">
-        <Background Type="CT_RAW" Source="FFBFBDB6" />
+        <Background Type="CT_RAW" Source="FFFF0088" />
       </Color>
       <Color Name="CommandBarTextSelected">
         <Background Type="CT_RAW" Source="FFBFBDB6" />
@@ -2601,7 +2601,7 @@
         <Background Type="CT_RAW" Source="FFBFBDB6" />
       </Color>
       <Color Name="CommandBarMenuSeparator">
-        <Background Type="CT_RAW" Source="FF1E232B" />
+        <Background Type="CT_RAW" Source="7AFF0088" />
       </Color>
       <Color Name="GridLine">
         <Background Type="CT_RAW" Source="FF1E232B" />
@@ -3682,7 +3682,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="MainWindowActiveIconDefault">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFFF0088" />
       </Color>
       <Color Name="MainWindowActiveIconNoSolution">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -3712,7 +3712,7 @@
         <Background Type="CT_RAW" Source="66FFFFFF" />
       </Color>
       <Color Name="MainWindowInactiveIconDefault">
-        <Background Type="CT_RAW" Source="66FFFFFF" />
+        <Background Type="CT_RAW" Source="A8FF0088" />
       </Color>
       <Color Name="MainWindowResizeGripTexture1">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -6633,7 +6633,7 @@
       </Color>
       <Color Name="HtmlClientTemplateTagFormatDefinition">
         <Background Type="CT_RAW" Source="FF0D1017" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF006400" />
       </Color>
       <Color Name="HtmlClientTemplateValueFormatDefinition">
         <Background Type="CT_RAW" Source="FF0D1017" />
@@ -7270,6 +7270,26 @@
       <Color Name="viasfora.rainbow.error">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="RazorTransition">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
+      </Color>
+      <Color Name="BidirectionalTextControlCharacter">
+        <Background Type="CT_RAW" Source="FFEEEEF2" />
+        <Foreground Type="CT_RAW" Source="FFC40A17" />
+      </Color>
+      <Color Name="Track additions in documents under source control">
+        <Background Type="CT_RAW" Source="FF107C10" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="Track modifications in documents under source control">
+        <Background Type="CT_RAW" Source="FF0078D4" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="Track deletions in documents under source control">
+        <Background Type="CT_RAW" Source="FFDF6262" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
     </Category>
     <Category Name="SearchControl" GUID="{f1095fad-881f-45f1-8580-589e10325eb8}">
@@ -8288,7 +8308,7 @@
         <Foreground Type="CT_RAW" Source="FFD2A6FF" />
       </Color>
       <Color Name="Identifier">
-        <Background Type="CT_RAW" Source="FF0D1017" />
+        <Background Type="CT_RAW" Source="000D1017" />
         <Foreground Type="CT_RAW" Source="FFBFBDB6" />
       </Color>
       <Color Name="Keyword">
@@ -9090,6 +9110,9 @@
         <Background Type="CT_RAW" Source="FF252526" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
+      <Color Name="LineStagingHunkBorder">
+        <Background Type="CT_RAW" Source="FF0066CC" />
+      </Color>
     </Category>
     <Category Name="VisualStudioInstaller" GUID="{53212856-7528-403d-84e6-76820f4cef73}">
       <Color Name="Hyperlink">
@@ -9538,7 +9561,7 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="BkgTipText">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
         <Foreground Type="CT_RAW" Source="FF656565" />
       </Color>
       <Color Name="TopTipHighlightText">
@@ -9780,7 +9803,7 @@
         <Foreground Type="CT_RAW" Source="FF0000A5" />
       </Color>
       <Color Name="Brace Matching (Highlight)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="000B0E14" />
         <Foreground Type="CT_RAW" Source="FFBFBDB6" />
       </Color>
       <Color Name="Refactoring Background">

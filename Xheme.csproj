@@ -14,8 +14,8 @@
     <ProjectGuid>{1AD64192-E8FF-4224-81D8-EA155D707098}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Xheme</RootNamespace>
-    <AssemblyName>Xheme</AssemblyName>
+    <RootNamespace>Xheme22</RootNamespace>
+    <AssemblyName>Xheme22</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <GeneratePkgDefFile>false</GeneratePkgDefFile>
     <UseCodebase>true</UseCodebase>
